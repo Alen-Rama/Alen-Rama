@@ -3,14 +3,14 @@
 
 - ➡ I'm looking for **an internship to get my first work experience**
 
-- ➡ I’m currently learning **Django**
+- ➡ I'm currently learning **Django**
 
 - ➡ How to reach me **aramaper28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wrongsettings1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wrongsettings1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alen-rama-b1b3a522b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alen-rama-b1b3a522b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alen-rama-b1b3a522b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alen-rama-b1b3a522b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
